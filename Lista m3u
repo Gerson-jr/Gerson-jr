@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo MG
+http://50.7.34.155:2200/BR/Globo_HD_Minas-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP
+http://50.7.34.155:2200/BR/SBT_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record MG HD
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="TV Aberta",Rede TV ES
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5203998478089962000
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Variedades", TV Gazeta (SP)
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Pública", TV Cultura - TV Futuro (RJ)
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="Religioso",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="Infantil", Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="Pública",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvredeboasnovas.png" group-title="Religioso", Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
+http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
+http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil
+http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedade e Músicas",Viva
+http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/l2Fy8cv.png" group-title="Religiosos",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?PEDROJUNIORTUTORIAIS
